@@ -1,0 +1,6 @@
+requests
+requests_cache
+networkx
+matplotlib
+crossref_commons
+pybtex
